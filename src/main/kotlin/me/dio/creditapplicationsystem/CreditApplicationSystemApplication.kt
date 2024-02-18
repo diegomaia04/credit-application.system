@@ -1,4 +1,4 @@
-package me.dio.creditapplicationsystem.impl
+package me.dio.creditapplicationsystem
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
